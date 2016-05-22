@@ -76,3 +76,13 @@ form.link, form.button {
     border-bottom: 0;
   }
 }
+
+
+/* Chat App */
+
+#message-list {
+  border: 1px solid #777;
+  height: 400px;
+  margin-bottom: 50px;
+}
+
