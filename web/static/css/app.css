@@ -84,5 +84,7 @@ form.link, form.button {
   border: 1px solid #777;
   height: 400px;
   margin-bottom: 50px;
+  padding: 10px;
+  overflow: scroll;
 }
 
