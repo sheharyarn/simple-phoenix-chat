@@ -3,6 +3,7 @@ defmodule Chatroom.UserSocket do
 
   ## Channels
   # channel "rooms:*", Chatroom.RoomChannel
+  channel "lobby", Chatroom.LobbyChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket
